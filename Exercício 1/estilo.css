@@ -1,0 +1,53 @@
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+.footer {
+    background-color: rgb(85, 95, 85);
+    padding: 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+
+}
+
+img {
+    
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 4px 8px 0;
+   
+}
+
+.center {
+    text-align: center;
+}
+
+
+
+.header {
+
+    background-color: rgb(85, 85, 197);
+    padding: 30px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    margin-right: 130px;
+    margin-left: 50px;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div figcaption {
+    padding: 10px;
+}
+
+figcaption {
+    font-family: Arial, Helvetica, sans-serif;
+}
